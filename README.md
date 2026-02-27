@@ -1,1 +1,1 @@
-# kosa-ai-agent-2026-1st
+# kosa-ai-agent-2026
